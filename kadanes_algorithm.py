@@ -13,5 +13,5 @@ def maxSubArray(nums):
 
     return global_max
 
-nums = [-2,1,-3,4,-1,2,1,-5,4]
+nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
 print(maxSubArray(nums))
