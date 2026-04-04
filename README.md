@@ -10,9 +10,9 @@
 
 | Алгоритм / Тема | Файл | Описание |
 |:---|:---|:---|
-| **Selection Sort** | [selection_sort.py](./selection_sort.py) | Сортировка выбором — классика алгоритмов $O(n^2)$. |
-| **Binary Search** | [binary_search.py](./binary_search.py) | Эффективный поиск в отсортированном массиве ($O\log n$). |
-| **Kadane's Algorithm** | [kadanes_algorithm.py](./kadanes_algorithm.py) | Поиск подмассива с максимальной суммой (динамическое программирование). |
+| **Selection Sort** | [selection_sort.py](sorting/selection_sorting.py) | Сортировка выбором — классика алгоритмов $O(n^2)$. |
+| **Binary Search** | [binary_search.py](search/binary_search.py) | Эффективный поиск в отсортированном массиве ($O\log n$). |
+| **Kadane's Algorithm** | [kadanes_algorithm.py](search/kadanes_algorithm.py) | Поиск подмассива с максимальной суммой (динамическое программирование). |
 
 ---
 
