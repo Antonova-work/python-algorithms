@@ -8,11 +8,12 @@
 
 В этом репозитории собраны алгоритмы, которые формируют базу для решения сложных инженерных задач:
 
-| Алгоритм / Тема | Файл | Описание |
-|:---|:---|:---|
-| **Selection Sort** | [selection_sort.py](sorting/selection_sorting.py) | Сортировка выбором — классика алгоритмов $O(n^2)$. |
-| **Binary Search** | [binary_search.py](search/binary_search.py) | Эффективный поиск в отсортированном массиве ($O\log n$). |
-| **Kadane's Algorithm** | [kadanes_algorithm.py](search/kadanes_algorithm.py) | Поиск подмассива с максимальной суммой (динамическое программирование). |
+| Алгоритм / Тема | Файл | 
+|:---|:---|
+| **Selection Sort** | [selection_sort.py](sorting/selection_sorting.py) |
+| **Binary Search** | [binary_search.py](search/binary_search.py) |
+| **Kadane's Algorithm** | [kadanes_algorithm.py](search/kadanes_algorithm.py) |
+|**Bubble Sorting** | [bubble_sorting.py](sorting/bubble_sorting.py)|
 
 ---
 
