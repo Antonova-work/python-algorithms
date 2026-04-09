@@ -13,12 +13,15 @@
 | **Selection Sort** | [selection_sort.py](sorting/selection_sorting.py) |
 | **Binary Search** | [binary_search.py](search/binary_search.py) |
 | **Kadane's Algorithm** | [kadanes_algorithm.py](search/kadanes_algorithm.py) |
-|**Bubble Sorting** | [bubble_sorting.py](sorting/bubble_sorting.py)|
+|**Bubble Sorting** | [bubble_sorting.py](sorting/bubble_sorting.py) |
+|**Two Pointers Classic** | [two_pointers_classic.py](arrays/two_pointers/two_pointers_classic.py) |
+|**Two Catch-Up Pointers** | [two_catch_up_pointers.py](/arrays/two_pointers/two_catch_up_pointers.py) |
+|**Two Pointers Sliding Window** | [two_pointers_sliding_window.py](/arrays/two_pointers/two_pointers_sliding_window.py) |
 
 ---
 
 ## 🛠️ Стек технологий
-* **Language:** Python 3.x
+* **Language:** Python
 * **Focus:** Computer Science Fundamentals, Algorithm Complexity ($O$-notation).
 
 ---
