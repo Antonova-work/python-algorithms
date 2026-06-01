@@ -10,7 +10,7 @@
 
 | Алгоритм / Тема | Файл | 
 |:---|:---|
-| **Selection Sorting** | [selection_sort.py](sorting/selection_sorting.py) |
+| **Selection Sorting Classic** | [selection_sorting_classic.py](sorting/selection%20sorting/selection_sorting_classic.py) |
 | **Binary Search** | [binary_search.py](search/binary_search.py) |
 | **Kadane's Algorithm** | [kadanes_algorithm.py](search/kadanes_algorithm.py) |
 |**Bubble Sorting** | [bubble_sorting.py](sorting/bubble_sorting.py) |
@@ -19,6 +19,7 @@
 |**Two Pointers Sliding Window** | [two_pointers_sliding_window.py](/arrays/two_pointers/two_pointers_sliding_window.py) |
 |**Linear Search** | [linear_search.py](search/linear_search.py) |
 |**Quick Sorting** | [quick_sorting.py](sorting/quick_sorting.py) |
+|**Selection Sorting Modified** | [selection_sorting_modified.py](sorting/selection%20sorting/selection_sorting_modified.py) |
 
 ---
 
