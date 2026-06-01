@@ -6,17 +6,19 @@
 
 ## 📚 Содержание
 
-В этом репозитории собраны алгоритмы, которые формируют базу для решения сложных инженерных задач:
+В этом репозитории собраны алгоритмы, которые формируют базу для решения сложных задач:
 
 | Алгоритм / Тема | Файл | 
 |:---|:---|
-| **Selection Sort** | [selection_sort.py](sorting/selection_sorting.py) |
+| **Selection Sorting** | [selection_sort.py](sorting/selection_sorting.py) |
 | **Binary Search** | [binary_search.py](search/binary_search.py) |
 | **Kadane's Algorithm** | [kadanes_algorithm.py](search/kadanes_algorithm.py) |
 |**Bubble Sorting** | [bubble_sorting.py](sorting/bubble_sorting.py) |
 |**Two Pointers Classic** | [two_pointers_classic.py](arrays/two_pointers/two_pointers_classic.py) |
 |**Two Catch-Up Pointers** | [two_catch_up_pointers.py](/arrays/two_pointers/two_catch_up_pointers.py) |
 |**Two Pointers Sliding Window** | [two_pointers_sliding_window.py](/arrays/two_pointers/two_pointers_sliding_window.py) |
+|**Linear Search** | [linear_search.py](search/linear_search.py) |
+|**Quick Sorting** | [quick_sorting.py](sorting/quick_sorting.py) |
 
 ---
 
